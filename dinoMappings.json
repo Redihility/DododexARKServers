@@ -1,20 +1,16 @@
 {
   "dinoMappings": [
     {
+      "fromClass": "/DododexServerUtils/D-Rhyniognatha/Rhynio_Character_DASU_BP.Rhynio_Character_DASU_BP",
+      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP"
+    },
+    {
       "fromClass": "/DododexServerUtils/Event/BionicCarcha_Character_BP_Event.BionicCarcha_Character_BP_Event",
       "toClass": "/DododexServerUtils/Creatures/BionicCarcha/BionicCarcha_Character_BP.BionicCarcha_Character_BP"
     },
     {
       "fromClass": "/DododexServerUtils/Event/Carcha_Character_BP_Event.Carcha_Character_BP_Event",
       "toClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP"
-    },
-    {
-      "fromClass": "/DododexServerUtils/D-Rhyniognatha/Rhynio_Character_DASU_BP.Rhynio_Character_DASU_BP",
-      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP"
-    },
-    {
-      "fromClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP",
-      "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Aberrant/PA_Aberrant_Cryptoclidus_Character_BP.PA_Aberrant_Cryptoclidus_Character_BP"
     }
   ]
 }
