@@ -6,7 +6,7 @@
     },
     {
       "fromClass": "/DododexServerUtils/Event/BionicCarcha_Character_BP_Event.BionicCarcha_Character_BP_Event",
-      "toClass": "/DododexServerUtils/Creatures/BionicCarcha/BionicCarcha_Character_BP.BionicCarcha_Character_BP"
+      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP"
     },
     {
       "fromClass": "/DododexServerUtils/Event/Carcha_Character_BP_Event.Carcha_Character_BP_Event",
