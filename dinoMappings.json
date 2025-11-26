@@ -11,6 +11,18 @@
     {
       "fromClass": "/DododexServerUtils/Event/Carcha_Character_BP_Event.Carcha_Character_BP_Event",
       "toClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP"
+    },
+    {
+      "fromClass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP",
+      "toClass": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Extinction/EVO_Wasteland_Giga_Character_BP.EVO_Wasteland_Giga_Character_BP"
+    },
+    {
+      "fromClass": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP",
+      "toClass": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Tarbo_Character_BP.EVO_Tarbo_Character_BP"
+    },
+    {
+      "fromClass": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP",
+      "toClass": "/PA_Plus_Pack_01/Content/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP"
     }
   ]
 }
